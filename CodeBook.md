@@ -1,4 +1,5 @@
-# Codebook for assignment for Coursera's Getting and Cleaning Data course. This document describes the data set and its variables.
+# Codebook for assignment for Coursera's Getting and Cleaning Data course. 
+This document describes the project, data set and its variables.
 
 ## Description of the project: 
 
