@@ -39,37 +39,37 @@ These signals were used to estimate variables of the feature vector for each pat
 tBodyAcc-XYZ <br />
 tGravityAcc-XYZ <br />
 tBodyAccJerk-XYZ <br />
-tBodyGyro-XYZ
-tBodyGyroJerk-XYZ
-tBodyAccMag
-tGravityAccMag
-tBodyAccJerkMag
-tBodyGyroMag
-tBodyGyroJerkMag
-fBodyAcc-XYZ
-fBodyAccJerk-XYZ
-fBodyGyro-XYZ
-fBodyAccMag
-fBodyAccJerkMag
-fBodyGyroMag
-fBodyGyroJerkMag
+tBodyGyro-XYZ <br />
+tBodyGyroJerk-XYZ <br />
+tBodyAccMag <br />
+tGravityAccMag <br />
+tBodyAccJerkMag <br />
+tBodyGyroMag <br />
+tBodyGyroJerkMag <br />
+fBodyAcc-XYZ <br />
+fBodyAccJerk-XYZ <br />
+fBodyGyro-XYZ <br />
+fBodyAccMag <br />
+fBodyAccJerkMag <br />
+fBodyGyroMag <br />
+fBodyGyroJerkMag <br />
 
 The set of variables that were estimated from these signals are: 
 
-mean(): Mean value
-std(): Standard deviation
-mad(): Median absolute deviation 
-max(): Largest value in array
-min(): Smallest value in array
-*
-*
-*
+mean(): Mean value <br />
+std(): Standard deviation <br />
+mad(): Median absolute deviation <br />
+max(): Largest value in array <br />
+min(): Smallest value in array <br />
+* <br />
+* <br />
+*<br />
 
 Since the scope of this exercise is only for mean and std-deviation, we would limit out analysis to that.
 Additional vectors obtained by averaging the signals in a signal window sample. These are used on the angle() variable:
 
-gravityMean
-tBodyAccMean
-tBodyAccJerkMean
-tBodyGyroMeant
-fBodyGyroJerkMean
+gravityMean <br />
+tBodyAccMean <br />
+tBodyAccJerkMean <br />
+tBodyGyroMeant <br />
+fBodyGyroJerkMean <br />
