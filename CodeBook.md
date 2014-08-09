@@ -64,11 +64,12 @@ min(): Smallest value in array
 *
 *
 *
+
 Since the scope of this exercise is only for mean and std-deviation, we would limit out analysis to that.
 Additional vectors obtained by averaging the signals in a signal window sample. These are used on the angle() variable:
 
 gravityMean
 tBodyAccMean
 tBodyAccJerkMean
-tBodyGyroMean
-tBodyGyroJerkMean
+tBodyGyroMeant
+fBodyGyroJerkMean
